@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/github-page-test/static/css/main.073c9b0a.css",
-    "main.js": "/github-page-test/static/js/main.58660818.js",
-    "static/js/787.63ed68ac.chunk.js": "/github-page-test/static/js/787.63ed68ac.chunk.js",
-    "static/media/logo.svg": "/github-page-test/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/github-page-test/static/css/main.bafa90cf.css",
+    "main.js": "/github-page-test/static/js/main.6082f438.js",
     "index.html": "/github-page-test/index.html",
-    "main.073c9b0a.css.map": "/github-page-test/static/css/main.073c9b0a.css.map",
-    "main.58660818.js.map": "/github-page-test/static/js/main.58660818.js.map",
-    "787.63ed68ac.chunk.js.map": "/github-page-test/static/js/787.63ed68ac.chunk.js.map"
+    "main.bafa90cf.css.map": "/github-page-test/static/css/main.bafa90cf.css.map",
+    "main.6082f438.js.map": "/github-page-test/static/js/main.6082f438.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.58660818.js"
+    "static/css/main.bafa90cf.css",
+    "static/js/main.6082f438.js"
   ]
 }
